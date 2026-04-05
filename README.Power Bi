@@ -1,3 +1,55 @@
-🚀 Built an interactive Insurance Analytics Dashboard using Power BI, inspired by PolicyBazaar data.  
-📊 Delivers actionable insights on policy performance, insured values, risk coverage, and regional trends to support data-driven decision making.
-![PolicyBazaar](https://img.shields.io/badge/PolicyBazaar-Data%20Insights-ff6b00?style=flat-square&logo=databricks&logoColor=white)
+# 📊 Insurance Analytics Dashboard (Power BI)
+
+🚀 Turning insurance data into actionable insights with Power BI.
+
+---
+
+## 📌 Project Overview
+This project is an interactive **Insurance Analytics Dashboard** built using **Power BI**, inspired by PolicyBazaar data.  
+
+The dashboard helps in analyzing insurance policies, insured values, risk coverage, and regional trends to support **data-driven decision making**.
+
+---
+
+## 🎯 Objectives
+- Analyze total number of policies and insured value  
+- Understand regional performance of insurance data  
+- Identify risk coverage patterns  
+- Compare rural vs urban insurance distribution  
+- Provide insights for business growth  
+
+---
+
+## 📊 Key Features
+- 📈 KPI Cards (Total Policies, Premium, Insured Value)  
+- 🌍 Region-wise Analysis (Central, East, Midwest, Northeast)  
+- 🏙️ Rural vs Urban Segmentation  
+- 🧾 Business Type & Industry Breakdown  
+- ⚖️ Risk Coverage Analysis (Yes / No)  
+- 🗺️ Map Visualization for location insights  
+
+---
+
+## 🛠️ Tools & Technologies Used
+- Power BI  
+- Excel (Data Cleaning & Preparation)  
+- Data Visualization Techniques  
+
+---
+
+## 📷 Dashboard Preview
+(Add your dashboard screenshot here)
+
+---
+
+## 📂 Dataset
+- The dataset is based on insurance data (PolicyBazaar inspired)  
+- Includes policy details, insured amount, location, and risk data  
+
+---
+
+## 💡 Insights Gained
+- Identified high-performing regions  
+- Found patterns in insured value distribution  
+- Observed differences between rural and urban customers  
+- Analyzed risk coverage trends  
